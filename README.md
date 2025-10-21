@@ -145,7 +145,7 @@ sudo ./nuke_vps.sh --files-only --force
 - **Remove all user accounts** and authentication
 
 ### 🛡️ This Script Cannot
-- Delete **cloud provider snapshots** (AWS EBS, etc.)
+- Delete **cloud provider snapshots**
 - Remove **external backups** 
 - Affect **network-attached storage** not mounted locally
 - Delete **provider metadata** (billing, tags, etc.)
