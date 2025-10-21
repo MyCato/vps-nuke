@@ -37,7 +37,8 @@ cd vps-nuke
 
 # Make executable
 chmod +x nuke_vps.sh
-
+```
+```bash
 # Run (requires sudo)
 sudo ./nuke_vps.sh --files-only
 ```
